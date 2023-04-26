@@ -1,0 +1,48 @@
+.bg-lgreen{
+    background: #d4eede;
+}
+.bg-lblue{
+    background: #dde5f4;
+}
+.bg-lyellow{
+    background: #f9edd7;
+}
+.bg-lgrey{
+    background: #dddedf;
+}
+.text-dgray{
+    color: #4e4e4f;
+}
+
+.bg-top {
+    background: #f9f9f9;
+}
+
+.wid-5{
+    width: 50px;
+    height: 50px;
+}
+.text-main{
+    color: #5c5f68;
+}
+
+.btn-pos{
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+}
+
+.forme {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #cecece;
+    border-radius: 10px;
+    padding: 5px;
+}
+.close{
+    text-align: right;
+    height: 20px;
+    cursor: pointer;
+}
